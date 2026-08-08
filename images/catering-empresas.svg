@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 360" width="500" height="360">
+  <rect width="500" height="360" fill="#fdf1dc" rx="16"/>
+  <rect x="60" y="230" width="140" height="20" rx="6" fill="#c98a3f"/>
+  <rect x="70" y="180" width="120" height="50" rx="8" fill="#f4b32e"/>
+  <circle cx="100" cy="200" r="14" fill="#8c4a2f"/>
+  <circle cx="135" cy="195" r="14" fill="#d84f3e"/>
+  <circle cx="170" cy="200" r="14" fill="#6fa851"/>
+
+  <rect x="220" y="215" width="140" height="20" rx="6" fill="#c98a3f"/>
+  <rect x="230" y="165" width="120" height="50" rx="8" fill="#f4b32e"/>
+  <circle cx="260" cy="185" r="14" fill="#e8b467"/>
+  <circle cx="295" cy="180" r="14" fill="#d84f3e"/>
+  <circle cx="330" cy="185" r="14" fill="#8c4a2f"/>
+
+  <rect x="300" y="240" width="140" height="20" rx="6" fill="#c98a3f"/>
+  <rect x="310" y="190" width="120" height="50" rx="8" fill="#f4b32e"/>
+  <circle cx="340" cy="210" r="14" fill="#6fa851"/>
+  <circle cx="375" cy="205" r="14" fill="#f2795f"/>
+  <circle cx="410" cy="210" r="14" fill="#e8b467"/>
+
+  <!-- office building silhouette -->
+  <rect x="380" y="60" width="90" height="140" rx="4" fill="#8c3b1b" opacity="0.85"/>
+  <rect x="395" y="75" width="14" height="14" fill="#fdf1dc"/>
+  <rect x="420" y="75" width="14" height="14" fill="#fdf1dc"/>
+  <rect x="445" y="75" width="14" height="14" fill="#fdf1dc"/>
+  <rect x="395" y="100" width="14" height="14" fill="#fdf1dc"/>
+  <rect x="420" y="100" width="14" height="14" fill="#fdf1dc"/>
+  <rect x="445" y="100" width="14" height="14" fill="#fdf1dc"/>
+  <rect x="395" y="125" width="14" height="14" fill="#fdf1dc"/>
+  <rect x="420" y="125" width="14" height="14" fill="#fdf1dc"/>
+  <rect x="445" y="125" width="14" height="14" fill="#fdf1dc"/>
+
+  <text x="250" y="320" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#8c3b1b" font-weight="bold">Bandejas para tu empresa</text>
+</svg>

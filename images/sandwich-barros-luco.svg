@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" width="300" height="220">
+  <rect width="300" height="220" fill="#fff8ec"/>
+  <ellipse cx="150" cy="185" rx="120" ry="18" fill="#00000012"/>
+  <path d="M60 140 Q150 95 240 140 L230 165 Q150 145 70 165 Z" fill="#e0a860"/>
+  <path d="M65 133 Q150 148 235 133 L230 120 Q150 138 70 120 Z" fill="#f4c542"/>
+  <path d="M60 118 Q150 78 240 118 L232 130 Q150 100 68 130 Z" fill="#7a3d22"/>
+  <path d="M70 100 Q150 55 230 100 Q150 78 70 100 Z" fill="#e8b467"/>
+  <text x="150" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8c3b1b">Barros Luco</text>
+</svg>

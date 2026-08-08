@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 220" width="300" height="220">
+  <rect width="300" height="220" fill="#fff8ec"/>
+  <ellipse cx="150" cy="185" rx="120" ry="18" fill="#00000012"/>
+  <path d="M60 140 Q150 95 240 140 L230 165 Q150 145 70 165 Z" fill="#e0a860"/>
+  <path d="M65 133 Q150 150 235 133 L228 116 Q150 136 72 116 Z" fill="#7fae5b"/>
+  <path d="M62 116 Q150 82 238 116 L230 130 Q150 104 70 130 Z" fill="#f0d9a8"/>
+  <path d="M70 100 Q150 55 230 100 Q150 78 70 100 Z" fill="#e8b467"/>
+  <text x="150" y="205" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#8c3b1b">Ave Palta</text>
+</svg>

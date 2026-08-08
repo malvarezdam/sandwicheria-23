@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 500" width="600" height="500">
+  <defs>
+    <radialGradient id="plateShadow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <ellipse cx="300" cy="430" rx="230" ry="35" fill="url(#plateShadow)"/>
+  <ellipse cx="300" cy="410" rx="250" ry="60" fill="#fff8ec"/>
+  <ellipse cx="300" cy="405" rx="250" ry="55" fill="#ffffff" stroke="#e8c39e" stroke-width="3"/>
+
+  <!-- bottom bread -->
+  <path d="M110 300 Q300 220 490 300 L480 340 Q300 300 120 340 Z" fill="#e0a860"/>
+  <!-- lettuce -->
+  <path d="M115 300 Q300 260 485 300 Q470 285 445 292 Q420 275 395 288 Q365 270 335 285 Q305 268 275 285 Q245 270 215 285 Q185 272 155 288 Q130 280 115 300 Z" fill="#6fa851"/>
+  <!-- tomato slices -->
+  <circle cx="220" cy="280" r="22" fill="#d84f3e"/>
+  <circle cx="220" cy="280" r="10" fill="#f2795f"/>
+  <circle cx="380" cy="278" r="22" fill="#d84f3e"/>
+  <circle cx="380" cy="278" r="10" fill="#f2795f"/>
+  <!-- cheese -->
+  <path d="M150 268 L450 268 L430 250 L170 250 Z" fill="#f4c542"/>
+  <!-- meat -->
+  <path d="M140 250 Q300 200 460 250 L455 262 Q300 220 145 262 Z" fill="#8c4a2f"/>
+  <!-- top bread -->
+  <path d="M120 245 Q170 130 300 125 Q430 130 480 245 Q300 195 120 245 Z" fill="#e8b467"/>
+  <path d="M150 200 a6 6 0 1 1 0.1 0" fill="#c98a3f" opacity="0.5"/>
+  <circle cx="200" cy="180" r="4" fill="#c98a3f" opacity="0.6"/>
+  <circle cx="260" cy="155" r="4" fill="#c98a3f" opacity="0.6"/>
+  <circle cx="330" cy="150" r="4" fill="#c98a3f" opacity="0.6"/>
+  <circle cx="390" cy="170" r="4" fill="#c98a3f" opacity="0.6"/>
+  <circle cx="430" cy="200" r="4" fill="#c98a3f" opacity="0.6"/>
+  <circle cx="290" cy="185" r="4" fill="#c98a3f" opacity="0.6"/>
+
+  <!-- toothpick flag -->
+  <line x1="300" y1="120" x2="300" y2="70" stroke="#8c3b1b" stroke-width="4"/>
+  <path d="M300 70 L340 82 L300 94 Z" fill="#f4b32e"/>
+</svg>
