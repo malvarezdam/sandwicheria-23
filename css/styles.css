@@ -16,6 +16,17 @@
 
 html { scroll-behavior: smooth; }
 
+button {
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: normal;
+  border: none;
+  background: none;
+  appearance: none;
+  -webkit-appearance: none;
+  margin: 0;
+}
+
 body {
   margin: 0;
   font-family: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
